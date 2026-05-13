@@ -1,0 +1,14 @@
+D:\wse\stud\Labs\Lab_07\CSharp\bin\Debug\net10.0\CSharp.exe
+D:\wse\stud\Labs\Lab_07\CSharp\bin\Debug\net10.0\CSharp.deps.json
+D:\wse\stud\Labs\Lab_07\CSharp\bin\Debug\net10.0\CSharp.runtimeconfig.json
+D:\wse\stud\Labs\Lab_07\CSharp\bin\Debug\net10.0\CSharp.dll
+D:\wse\stud\Labs\Lab_07\CSharp\bin\Debug\net10.0\CSharp.pdb
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfoInputs.cache
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\CSharp.AssemblyInfo.cs
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\CSharp.csproj.CoreCompileInputs.cache
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\CSharp.dll
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\refint\CSharp.dll
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\CSharp.pdb
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\CSharp.genruntimeconfig.cache
+D:\wse\stud\Labs\Lab_07\CSharp\obj\Debug\net10.0\ref\CSharp.dll
