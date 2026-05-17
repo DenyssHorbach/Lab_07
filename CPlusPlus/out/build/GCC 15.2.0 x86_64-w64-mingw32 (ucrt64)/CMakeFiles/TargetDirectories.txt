@@ -1,0 +1,3 @@
+D:/wse/stud/Labs/Lab_07/CPlusPlus/out/build/GCC 15.2.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/CPlusPlus.dir
+D:/wse/stud/Labs/Lab_07/CPlusPlus/out/build/GCC 15.2.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/edit_cache.dir
+D:/wse/stud/Labs/Lab_07/CPlusPlus/out/build/GCC 15.2.0 x86_64-w64-mingw32 (ucrt64)/CMakeFiles/rebuild_cache.dir

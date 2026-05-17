@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/wse/stud/Labs/Lab_07/CPlusPlus/out/build/GCC 15.2.0 x86_64-w64-mingw32 (ucrt64)",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\CPlusPlus.dir\\main.cpp.obj -c D:\\wse\\stud\\Labs\\Lab_07\\CPlusPlus\\main.cpp",
+  "file": "D:/wse/stud/Labs/Lab_07/CPlusPlus/main.cpp",
+  "output": "CMakeFiles/CPlusPlus.dir/main.cpp.obj"
+}
+]
